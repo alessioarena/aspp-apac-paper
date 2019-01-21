@@ -1,5 +1,4 @@
-### Author list
-
+### author list
 * John Kirkham
 * Brianna Laugher
 * Madicken Munk
@@ -10,3 +9,8 @@
 * Nelle Varoquaux
 * Alessio Arena
 * Caitlin Cherryh
+* Genevieve Buckley
+* Kerensa McElroy
+* Juan Nunez-Iglesias
+* Benjamin Schwessinger
+* Lydia Knuefing
